@@ -1,0 +1,28 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#1D3972</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="darkgray">#666666</color>
+    <color name="darkgray1">#525352</color>
+    <color name="gray1">#CED1CD</color>
+    <color name="green_scroll">#0C6101</color>
+    <color name="green_scroll1">#009900</color>
+    <color name="blue_scroll">#00527A</color>
+    <color name="orange_scroll">#CB7A00</color>
+    <color name="blue_dark_scroll">#002952</color>
+    <color name="red_scroll">#BD231F</color>
+    <color name="red_dark_scroll">#A0000D</color>
+    <color name="green_dark_scroll">#009A00</color>
+    
+    <color name="press">#999999</color>
+    <color name="release_default">#BFBFBF</color>
+    <color name="release_default1">#CCCCCC</color>
+    <color name="press1">#A7A7A7</color>
+    
+    <color name="color1">#ccceee</color>
+    <color name="color2">#cccccc</color>
+    <color name="color3">#ffffff</color>
+</resources>
